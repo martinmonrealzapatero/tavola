@@ -6,7 +6,7 @@
   "scope": "/tavola/",
   "display": "standalone",
   "background_color": "#1C2B27",
-  "theme_color": "#1C2B27",
+  "theme_color": "#13703F",
   "icons": [
     { "src": "/tavola/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "/tavola/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
